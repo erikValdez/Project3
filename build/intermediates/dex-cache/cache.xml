@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\valde\Documents\Programming\Android\and2_allfiles\android\ex_solutions\ch07_ex3_TipCalculator_sol\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="64d24d8fdb4da8905a5b89e2a9ace798bf72c63c">
+        <dex dex="C:\Users\valde\Documents\Programming\Android\and2_allfiles\android\ex_solutions\ch07_ex3_TipCalculator_sol\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dfe19ce7131c4f9d47014f1e69748d14ccd52389\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\valde\Documents\Programming\Android\and2_allfiles\android\ex_solutions\ch07_ex3_TipCalculator_sol\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0eade6f77287576232935148625e2edee6768b6c">
+        <dex dex="C:\Users\valde\Documents\Programming\Android\and2_allfiles\android\ex_solutions\ch07_ex3_TipCalculator_sol\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_88a5284d6624b4ad9cc8d8cdfa9c0881f763c1d9\classes.dex" />
+    </item>
+
+</items>
